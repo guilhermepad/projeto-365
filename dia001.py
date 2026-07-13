@@ -1,14 +1,14 @@
-print("=" * 40)
-print("Projeto 365 - Dia 1")
-print("=" * 40)
 
-nome = input("Qual é o seu nome? ")
+num1 = input("Me dê o primeiro número aqui: ")
+num2 = input("Me dê o segundo número aqui: ")
 
-idade = int(input("Qual a sua idade? "))
+num1 = int(num1)
+num2 = int(num2)
 
-anos = 100 - idade
+print(f"A soma deles é: {num1 + num2}")
+print(f"A diferença deles é: {num1 - num2}")
+print(f"A multiplicação deles é: {num1 * num2}")
+print(f"A divisão entre eles é: {num1 / num2} ")
 
-print()
 
-print(f"Olá, {nome}!")
-print(f"Faltam aproximadamente {anos} anos para você completar 100 anos.")
+
