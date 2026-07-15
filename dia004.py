@@ -27,9 +27,9 @@
 ##Conversão de Temperatura melhorado
 value = input("Você quer converter a temperatura para Celsius ou Fahrenheit? ") #pergunta para qual indicador o usuario quer converter
 temp = float(input("Qual a temperatura de Hoje? ")) # pergunta a temperatura de hoje
-if value.lower() == 'Fahrenheit': 
+if value.lower() == 'fahrenheit': 
     print(f"A temperatura de hoje em Fahrenheit é: {(temp * 1.8) + 32}F") # se o usuario digitar fahrenheit ele fara a conversão de celsius pra fahrenheit
-elif value.lower() == 'Celsius':
+elif value.lower() == 'celsius':
     print(f"A temperatura de hoje em Celsius é: {(temp - 32) * 5/9}C") # se o usuario digitar celsius ele fará a conversão contrária
 else: 
     print("Erro operação inválida!") # se o usuario digitar qualquer coisa além disso, o comando dará como inválido
