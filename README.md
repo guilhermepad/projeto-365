@@ -15,7 +15,7 @@ Este repositório documenta minha jornada diária aprendendo Python do zero, seg
 - [x] Dia 5 — Loops (`while`), jogo de adivinhação
 - [ ] Dia 6 — (em andamento)
 
-## Tecnologias
+## Tecnologia
 
 - Python 3.12
 - Git / GitHub
