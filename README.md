@@ -13,7 +13,7 @@ Este repositório documenta minha jornada diária aprendendo Python do zero, seg
 - [x] Dia 3 — Calculadora de IMC, conversor de temperatura
 - [x] Dia 4 — Condicionais (`if`/`elif`/`else`)
 - [x] Dia 5 — Loops (`while`), jogo de adivinhação
-- [x] Dia 6 — (em andamento)
+- [x] Dia 6 — listas em Python - criação, indexação, for loops
 
 ## Tecnologia
 
