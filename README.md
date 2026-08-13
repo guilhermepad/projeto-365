@@ -13,7 +13,7 @@ Este repositório documenta minha jornada diária aprendendo Python do zero, seg
 - [x] Dia 3 — Calculadora de IMC, conversor de temperatura
 - [x] Dia 4 — Condicionais (`if`/`elif`/`else`)
 - [x] Dia 5 — Loops (`while`), jogo de adivinhação
-- [ ] Dia 6 — (em andamento)
+- [x] Dia 6 — (em andamento)
 
 ## Tecnologia
 
@@ -32,6 +32,7 @@ projeto-365/
 ├── dia003.py
 ├── dia004.py
 ├── dia005.py
+├── dia006.py
 └── README.md
 ```
 
