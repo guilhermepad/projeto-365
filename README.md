@@ -14,6 +14,7 @@ Este repositório documenta minha jornada diária aprendendo Python do zero, seg
 - [x] Dia 4 — Condicionais (`if`/`elif`/`else`)
 - [x] Dia 5 — Loops (`while`), jogo de adivinhação
 - [x] Dia 6 — listas em Python - criação, indexação, for loops
+- [x] Dia 7 — listas em Python - tuplas e dicionários
 
 ## Tecnologia
 
@@ -33,6 +34,7 @@ projeto-365/
 ├── dia004.py
 ├── dia005.py
 ├── dia006.py
+├── dia007.py
 └── README.md
 ```
 
