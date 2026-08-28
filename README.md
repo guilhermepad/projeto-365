@@ -16,6 +16,7 @@ Este repositório documenta minha jornada diária aprendendo Python do zero, seg
 - [x] Dia 6 — listas em Python - criação, indexação, for loops
 - [x] Dia 7 — listas em Python - tuplas e dicionários
 - [x] Dia 8 — dia 8 - funcoes: def, parametros, argumentos e return
+- [x] Dia 9 — dia 9 - funcoes: valores padrao e argumentos nomeados
 
 ## Tecnologia
 
@@ -37,6 +38,7 @@ projeto-365/
 ├── dia006.py
 ├── dia007.py
 ├── dia008.py
+├── dia009.py
 └── README.md
 ```
 
