@@ -2,13 +2,17 @@ def calcular_imc(peso, altura):
     imc = peso / (altura ** 2)
     return imc
 
-# chamar função:
+# Coletar dados do usuário
 
-meu_peso = float(input("Peso: ") )
+meu_peso = float(input("Peso: "))
 minha_altura = float(input("Altura: "))
+
+# Calcular e exibir IMC
 
 meu_imc = calcular_imc(meu_peso, minha_altura)
 print(f"Seu IMC é {meu_imc:.2f}")
+
+# Saudação personalizada
 
 def saudacao_personalizada(nome, idade):
     print(f"Olá, {nome}! Você tem {idade} anos.")
